@@ -1,5 +1,8 @@
 _repo: The-Law-of-Hotel-Life-or-the-Wrongs-and-Rights-of-Host-and-Guest_66992
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66992-h/images/cover.jpg
 creator:
   author:
     agent_name: Rogers, R. Vashon (Robert Vashon)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46345'
     url: http://www.gutenberg.org/2009/agents/46345
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66992#The-Law-of-Hotel-Life-or-the-Wrongs-and-Rights-of-Host-and-Guest
 gutenberg_issued: '2021-12-22'
 identifiers:
   gutenberg: '66992'
